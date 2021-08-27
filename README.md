@@ -1,2 +1,2 @@
 # zain
-###individual project https://zainhub19.github.io/zain/
+###Individual Project https://zainhub19.github.io/zain/
