@@ -102,6 +102,8 @@ a {
 
 .main {
     background-image: url("../img/images.png");
+    background-size: cover;
+    background-attachment: fixed;
     height: auto;
     display: flex;
     flex-direction: column;
